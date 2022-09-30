@@ -14,3 +14,5 @@ This is a markdown file that will give the overview of our ideas and whatever el
 ## Datasets
 The first dataset is a dataset of hospital buildings. We can use this data to find all of the hospital buildings in san diego and then add these buildings to our map so that the user can see them. 
 
+The data will kinda look like this: 
+|County Code|Perm ID|Facility Name|City|Building Nbr|Building Name|Building Status|SPC Rating *|Building URL|Height (ft)|Stories|Building Code|Building Code Year|Year Completed|Latitude|Longitude|Count|
