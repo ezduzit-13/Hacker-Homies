@@ -18,8 +18,9 @@ This is a markdown file that will give the overview of our ideas and whatever el
 
 ### Use ai to scan for brain cancer
 
-
-bruh
+### Prescription reminder app
+- Remind patients to take medications different medications
+- Allow healthcare providers to update, edit, or create perscriptions, then notify the patient
 
 ## Datasets
 
