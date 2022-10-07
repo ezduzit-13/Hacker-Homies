@@ -5,7 +5,7 @@ This is a markdown file that will give the overview of our ideas and whatever el
 
   ## Ideas 
 ### Health Facility Map
-- We will create a map that the user can then use to find a hospital near them
+- We will create a map that the user can then use to find a health facilities near them
 - the user should then be able to filter out certain hospitals based on their insurance plan, procedure, and maybe other things 
 - Includes hospitals, clinics, dentists, pharmacies, and any other needed health facilities
 - Provides not only routes accesible by car, but also by public transportation, biking, and walking
